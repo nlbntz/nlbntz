@@ -1,6 +1,7 @@
+https://www.codewars.com/users/n.lbntz/badges/large
+
 - 👋 Hi, I’m @nlbntz
-- 👀 I’m interested in C#/.NET and DevOps
-- 🌱 I’m currently learning ...
+- Interested in C#/.NET and DevOps
 
 <!---
 nlbntz/nlbntz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

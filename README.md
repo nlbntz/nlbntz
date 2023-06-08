@@ -1,4 +1,4 @@
-https://www.codewars.com/users/n.lbntz/badges/large
+<img src='https://www.codewars.com/users/n.lbntz/badges/large'></img>
 
 - 👋 Hi, I’m @nlbntz
 - Interested in C#/.NET and DevOps

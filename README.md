@@ -13,12 +13,11 @@
 
 <table>
   <tr>
-  <th colspan=4><i>DevOps</i></th>
+  <th colspan=3><i>DevOps</i></th>
  </tr>
  <tr>
   <tr>
   <th>Kubernetes</th>
-  <th>K8s</th>
   <th>CI/CD</th>
   <th>Docker</th>
  </tr>
@@ -39,7 +38,7 @@
   <th colspan=4><i>Databases</i></th>
  </tr>
  <tr>
-  <th>MsSQL</th>
+  <th>Microsoft SQL Server</th>
  </tr>
 </table>
 
